@@ -20,4 +20,4 @@ Please download the [testing set](https://cs.nyu.edu/~silberman/datasets/nyu_dep
 # Vis
 ![result](./vis.png)
 
-Our code is mainly based on [unet](https://github.com/milesial/Pytorch-UNet) and [va-vae-2](https://github.com/rosinality/vq-vae-2-pytorch). Thanks for their contributions.
+Our code is mainly based on [unet](https://github.com/milesial/Pytorch-UNet) and [vq-vae-2](https://github.com/rosinality/vq-vae-2-pytorch). Thanks for their contributions.
