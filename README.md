@@ -10,3 +10,12 @@ Please download the [testing set](https://cs.nyu.edu/~silberman/datasets/nyu_dep
 - batch size: 4
 - weight decay: 5 × 10−4
 - optimizer: [adamp](https://github.com/clovaai/AdamP)
+- epoch: 120
+
+# HVQ Architecture Settings:
+- the size of HVQ: K=2048, D=128
+- number of residual blocks: 1
+- channel of the residual block: 64
+
+# Vis
+![result](./vis/vis.png)
