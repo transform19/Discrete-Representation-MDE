@@ -1,2 +1,4 @@
 # Discrete-Representation-MDE
-test
+
+# Test
+`python predict.py`
