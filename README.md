@@ -18,4 +18,4 @@ Please download the [testing set](https://cs.nyu.edu/~silberman/datasets/nyu_dep
 - channel of the residual block: 64
 
 # Vis
-![result](./vis/vis.png)
+![result](./vis.png)
